@@ -19,7 +19,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li class="active"><a href="#top">Start</a></li>
                     <li><a href="#schedule">Programma</a></li>
-                    <li><a href="#sponsors">Sponsors</a></li>
+                    <li><a href="#sponsors">Over Maria</a></li>
                     <li><a href="#venue">Locatie</a></li>
                     <li><a href="#contact">Aanmelden</a></li>
                 </ul>
@@ -224,7 +224,7 @@
                             <!-- timeline-bullet -->
 
                             <div class="timeline-content">
-                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Toost & Toespraken</h2>
+                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Receptie</h2>
                                 <span class="date wow flipInX" data-wow-delay="0.3s">17:30</span>
                             </div>
                             <!-- timeline-content -->
@@ -240,20 +240,6 @@
                             <div class="timeline-content">
                                 <h2 class="wow flipInX" data-wow-delay="0.3s"> Rondleiding door de brouwerij</h2>
                                 <p class="wow flipInX end" data-wow-delay="0.3s">(optioneel)</p>
-                                <span class="date wow flipInX" data-wow-delay="0.3s">18:00</span>
-                            </div>
-                            <!-- timeline-content -->
-                        </div>
-                        <!-- timeline-block -->
-
-                        <div class="timeline-block">
-                            <div class="timeline-bullet wow zoomIn" data-wow-delay="0s">
-
-                            </div>
-                            <!-- timeline-bullet -->
-
-                            <div class="timeline-content">
-                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Bier & Bitterballen</h2>
                                 <span class="date wow flipInX" data-wow-delay="0.3s">18:00</span>
                             </div>
                             <!-- timeline-content -->
@@ -324,7 +310,7 @@
                 <div class="col-sm-6">
                     <div class="contact-box">
                         <img src="images/location-icon.png" alt="location icon" class="wow zoomIn">
-                        <h5>ADRES</h5>
+                        <h5>LOCATIE</h5>
                         <p>Bierbrouwerij de Vlijt
                             <br>Vlijtseweg 114
                             <br>7317 AG Apeldoorn
