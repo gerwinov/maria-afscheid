@@ -42,11 +42,11 @@
             <p class="wow fadeInDown">Stafarts Centrum Jeugd en Gezin Apeldoorn</p>
 
             <h1 class="headline wow fadeInDown" data-wow-delay="0.1s">HET KIND EERST</h1>
-            <p class="wow fadeInDown">kinderrecht | art. 03</p>
+            <p class="wow fadeInDown">Elk kind heeft het recht om kind te zijn</p>
 
             <div class="when_where wow fadeIn" data-wow-delay="0.4s">
                 <p class="event_when">24 januari 2020</p>
-                <p class="event_where">Veluwse Schavuyt, Apeldoorn</p>
+                <p class="event_where">Proeflokaal De Vlijt, Apeldoorn</p>
             </div>
 
             <div class="header_bottom-bg">
@@ -65,7 +65,7 @@
     <section class="highlight">
 
         <div class="container">
-            <p class="lead text-center">Gather is a responsive website template for events, conferences, meetups, webinars etc. This template can be used of all type of gatherings. It has many features specifically designed for events like RSVP, Eventbrite Integration, Subscribe and contact. it also comes with different color versions to choose.</p>
+            <p class="lead text-center">De jeugdgezondheidszorg in Nederland behoort tot de beste ter wereld. Door alle georganiseer en goede bedoelingen worden organisaties en processen op den duur leidend. Verliezen we dan het belangrijkste niet vaak uit het oog? Het kind zelf moet in al ons denken en handelen centraal blijven staan. Een kleine bijeenkomst om uw gedachten weer op het goede spoor te zetten...</p>
 
             <div class="countdown_wrap">
                 <!-- Countdown JS for the Event Date Starts here.
@@ -155,8 +155,8 @@
                                 <div class="speaker-info wow fadeIn" data-wow-delay="0s">
                                     <img src="images/willemijn.jpg" alt="avatar" class="img-responsive">
                                 </div>
-                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Willemijn Dupuis</h2>
-                                <p class="wow flipInX" data-wow-delay="0.3s">Willemijn Dupuis heeft vanaf 1987 met Kinderrechtenambassadeurs gewerkt. Zij is begonnen als vrijwilliger voor UNICEF en heeft met Kinderrechtenambassadeurs van alle Westlandse basisscholen kinderparticipatie op de kaart gezet. Met de kinderen werd gesproken over hun rechten en plichten en die van alle kinderen in de wereld.</p>
+                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Saskia Blom</h2>
+                                <p class="wow flipInX" data-wow-delay="0.3s">Inleiding door dagvoorzitter Saskia Blom, directeur Centrum voor Jeugd en Gezin Apeldoorn</p>
                                 <span class="date wow flipInX" data-wow-delay="0.3s">16:30</span>
                             </div>
                             <!-- timeline-content -->
@@ -175,7 +175,43 @@
                                 </div>
                                 <h2 class="wow flipInX" data-wow-delay="0.3s"> Willemijn Dupuis</h2>
                                 <p class="wow flipInX" data-wow-delay="0.3s">Willemijn Dupuis heeft vanaf 1987 met Kinderrechtenambassadeurs gewerkt. Zij is begonnen als vrijwilliger voor UNICEF en heeft met Kinderrechtenambassadeurs van alle Westlandse basisscholen kinderparticipatie op de kaart gezet. Met de kinderen werd gesproken over hun rechten en plichten en die van alle kinderen in de wereld.</p>
-                                <span class="date wow flipInX" data-wow-delay="0.3s">17:00</span>
+                                <span class="date wow flipInX" data-wow-delay="0.3s"></span>
+                            </div>
+                            <!-- timeline-content -->
+                        </div>
+                        <!-- timeline-block -->
+
+                        <div class="timeline-block">
+                            <div class="timeline-bullet wow zoomIn" data-wow-delay="0s">
+
+                            </div>
+                            <!-- timeline-bullet -->
+
+                            <div class="timeline-content">
+                                <div class="speaker-info wow fadeIn" data-wow-delay="0s">
+                                    <img src="images/willemijn.jpg" alt="avatar" class="img-responsive">
+                                </div>
+                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Goos Cardol</h2>
+                                <p class="wow flipInX" data-wow-delay="0.3s">Hier moet tekst komen te staan.</p>
+                                <span class="date wow flipInX" data-wow-delay="0.3s"></span>
+                            </div>
+                            <!-- timeline-content -->
+                        </div>
+                        <!-- timeline-block -->
+
+                        <div class="timeline-block">
+                            <div class="timeline-bullet wow zoomIn" data-wow-delay="0s">
+
+                            </div>
+                            <!-- timeline-bullet -->
+
+                            <div class="timeline-content end">
+                                <div class="speaker-info wow fadeIn justify-content-end" data-wow-delay="0s">
+                                    <img src="images/willemijn.jpg" alt="avatar" class="img-responsive">
+                                </div>
+                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Saskia Blom</h2>
+                                <p class="wow flipInX" data-wow-delay="0.3s">Afluisting minicongres door de dagvoorzitter.</p>
+                                <span class="date wow flipInX" data-wow-delay="0.3s">17:30</span>
                             </div>
                             <!-- timeline-content -->
                         </div>
@@ -259,19 +295,18 @@
 
         <div class="container">
             <div class="section-title wow fadeInUp">
-                <h4>SPONSORS</h4>
-                <p>Mede mogelijk gemaakt door:</p>
+                <h4>OVER MARIA</h4>
+                <p>Hier moet nog wat tekst komen te staan.</p>
             </div>
 
             <div class="sponsor-slider wow bounceIn">
-                <div><img src="images/sponsor_1.png" class="img-responsive center-block" alt="sponsor"> </div>
-                <div><img src="images/sponsor_2.png" class="img-responsive center-block" alt="sponsor"> </div>
-                <div><img src="images/sponsor_3.png" class="img-responsive center-block" alt="sponsor"> </div>
-                <div><img src="images/sponsor_4.png" class="img-responsive center-block" alt="sponsor"> </div>
-                <div><img src="images/sponsor_1.png" class="img-responsive center-block" alt="sponsor"> </div>
-                <div><img src="images/sponsor_2.png" class="img-responsive center-block" alt="sponsor"> </div>
-                <div><img src="images/sponsor_3.png" class="img-responsive center-block" alt="sponsor"> </div>
-                <div><img src="images/sponsor_4.png" class="img-responsive center-block" alt="sponsor"> </div>
+                <div><img src="images/photos/1.jpg" class="img-responsive center-block" alt="sponsor"> </div>
+                <div><img src="images/photos/2.jpg" class="img-responsive center-block" alt="sponsor"> </div>
+                <div><img src="images/photos/3.jpg" class="img-responsive center-block" alt="sponsor"> </div>
+                <div><img src="images/photos/4.png" class="img-responsive center-block" alt="sponsor"> </div>
+                <div><img src="images/photos/5.png" class="img-responsive center-block" alt="sponsor"> </div>
+                <div><img src="images/photos/6.png" class="img-responsive center-block" alt="sponsor"> </div>
+                <div><img src="images/photos/0.png" class="img-responsive center-block" alt="sponsor"> </div>
             </div>
         </div>
         <!-- end .container -->
@@ -301,12 +336,12 @@
                 </div>
                 <div class="col-sm-6">
                     <div class="contact-box">
-                        <img src="images/email-icon.png" alt="email icon" class="wow zoomIn" data-wow-delay="0.3s">
+                        <img src="images/location-icon.png" alt="email icon" class="wow zoomIn" data-wow-delay="0.3s">
                         <h5>BEREIKBAARHEID</h5>
                         <p>Parkeren bij de locatie is gratis.
-                            <br> Er zijn voldoende parkeerplekken beschikbaar.
+                            <br> Er zijn voldoende parkeerplekken beschikbaar achter de brouwerij. 
                             <br>
-                            <br> Er gaat ook nog een bus.
+                            <br> U kunt ingang Zuid gebruiken.
                             <br> 
                         </p>
                     </div>
@@ -317,10 +352,13 @@
     </div>
     <!-- //  end .highlight -->
 
+    <img src="images/zwitsal.png" class="map-zwitsal" alt="plattegrond" />
+
     <div class="container" id="contact">
         <div class="section-title">
             <h4>AANMELDEN</h4>
-            <p>Vul onderstaand formulier in om u aan te melden voor het afscheid.</p>
+            <p>Vul onderstaand formulier in om u aan te melden voor het afscheid.
+            Het is niet de bedoeling dat u iets meeneemt voor Maria. Uw aanwezigheid is haar alles waard.</p>
         </div>
 
         <div class="contact-form bottom-space-xl wow fadeInUp">
@@ -351,6 +389,23 @@
                         <div class="form-group">
                             <label>E-mailadres *</label>
                             <input type="email" class="form-control" name="email" placeholder="E-mailadres" required>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Ik meld mij aan voor *</label>
+                            
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <label class="radio-inline" for="all">
+                                        <input type="radio" name="type" id="all" value="ALLES" checked /> Het hele programma
+                                    </label>
+                                </div>
+                                <div class="col-sm-6">
+                                    <label class="radio-inline" for="reception">
+                                        <input type="radio" name="type" id="reception" value="RECEPTION" /> Alleen de receptie
+                                    </label>
+                                </div>
+                            </div>
                         </div>
 
                         <div class="form-group">
