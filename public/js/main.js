@@ -29,7 +29,8 @@ $(function() {
     var items = document.querySelectorAll('.nav.navbar-nav.navbar-right a');
     for (var i = 0; i < items.length; i++) {
         items[i].onclick = function() {
-            document.querySelector('button.navbar-toggle:not(.collapsed)').click();
+            var menu = document.querySelector('button.navbar-toggle:not(.collapsed)');
+            if (menu) menu.click();
         };
     }
 
