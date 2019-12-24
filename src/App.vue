@@ -39,10 +39,11 @@
             </div>
 
             <h3 class="headline-support wow fadeInDown">AFSCHEID MARIA SCHUTTE</h3>
-            <p class="wow fadeInDown">Stafarts Centrum Jeugd en Gezin Apeldoorn</p>
+            <p class="headline-text wow fadeInDown">Stafarts Centrum Jeugd en Gezin Apeldoorn</p>
 
             <h1 class="headline wow fadeInDown" data-wow-delay="0.1s">HET KIND EERST</h1>
-            <p class="wow fadeInDown">Elk kind heeft het recht om kind te zijn</p>
+            <p class="headline-text headline-2 wow fadeInDown">"Elk kind heeft het recht om kind te zijn"</p>
+            <p class="headline-text wow fadeInDown">Verdrag Inzake de Rechten van het Kind</p>
 
             <div class="when_where wow fadeIn" data-wow-delay="0.4s">
                 <p class="event_when">24 januari 2020</p>
@@ -97,11 +98,11 @@
                 <a class="atcb-link"><i class="fa fa-calendar"> </i> Voeg toe aan uw agenda</a>
                   <var class="atc_event">
                       <var class="atc_date_start">2020-01-24 16:00:00</var>
-                      <var class="atc_date_end">2016-01-24 20:00:00</var>
+                      <var class="atc_date_end">2020-01-24 20:00:00</var>
                       <var class="atc_timezone">Europe/Amsterdam</var>
                       <var class="atc_title">Afscheid Maria Schutte</var>
                       <var class="atc_description"></var>
-                      <var class="atc_location">Veluwse Schavuyt, Apeldoorn</var>
+                      <var class="atc_location">Proeflokaal de Vlijt, Apeldoorn</var>
                   </var>
                </span>
 
@@ -138,7 +139,7 @@
                             <!-- timeline-bullet -->
 
                             <div class="timeline-content">
-                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Ontvangst met koffie</h2>
+                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Ontvangst met koffie en thee</h2>
                                 <span class="date wow flipInX" data-wow-delay="0.3s">16:00</span>
                             </div>
                             <!-- timeline-content -->
@@ -156,7 +157,7 @@
                                     <img src="images/willemijn.jpg" alt="avatar" class="img-responsive">
                                 </div>
                                 <h2 class="wow flipInX" data-wow-delay="0.3s"> Saskia Blom</h2>
-                                <p class="wow flipInX" data-wow-delay="0.3s">Inleiding door dagvoorzitter Saskia Blom, directeur Centrum voor Jeugd en Gezin Apeldoorn</p>
+                                <p class="wow flipInX" data-wow-delay="0.3s">Opening en inleiding door dagvoorzitter Saskia Blom, directeur Centrum voor Jeugd en Gezin Apeldoorn.</p>
                                 <span class="date wow flipInX" data-wow-delay="0.3s">16:30</span>
                             </div>
                             <!-- timeline-content -->
@@ -173,9 +174,9 @@
                                 <div class="speaker-info wow fadeIn justify-content-end" data-wow-delay="0s">
                                     <img src="images/willemijn.jpg" alt="avatar" class="img-responsive">
                                 </div>
-                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Willemijn Dupuis</h2>
-                                <p class="wow flipInX" data-wow-delay="0.3s">Willemijn Dupuis heeft vanaf 1987 met Kinderrechtenambassadeurs gewerkt. Zij is begonnen als vrijwilliger voor UNICEF en heeft met Kinderrechtenambassadeurs van alle Westlandse basisscholen kinderparticipatie op de kaart gezet. Met de kinderen werd gesproken over hun rechten en plichten en die van alle kinderen in de wereld.</p>
-                                <span class="date wow flipInX" data-wow-delay="0.3s"></span>
+                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Goos Cardol</h2>
+                                <p class="wow flipInX" data-wow-delay="0.3s">Hier hebben we nog tekst voor nodig.</p>
+                                <span class="date wow flipInX" data-wow-delay="0.3s">16:35</span>
                             </div>
                             <!-- timeline-content -->
                         </div>
@@ -191,9 +192,9 @@
                                 <div class="speaker-info wow fadeIn" data-wow-delay="0s">
                                     <img src="images/willemijn.jpg" alt="avatar" class="img-responsive">
                                 </div>
-                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Goos Cardol</h2>
-                                <p class="wow flipInX" data-wow-delay="0.3s">Hier moet tekst komen te staan.</p>
-                                <span class="date wow flipInX" data-wow-delay="0.3s"></span>
+                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Willemijn Dupuis</h2>
+                                <p class="wow flipInX" data-wow-delay="0.3s">Kinderparticipatie begint bij het eigen verhaal van ieder kind. <br><br>Willemijn Dupuis heeft vanaf 1987 met Kinderrechtenambassadeurs gewerkt. Zij is begonnen als vrijwilliger voor UNICEF en heeft met Kinderrechtenambassadeurs van alle Westlandse basisscholen kinderparticipatie op de kaart gezet. Met de kinderen werd gesproken over hun rechten en plichten en die van alle kinderen in de wereld.</p>
+                                <span class="date wow flipInX" data-wow-delay="0.3s">17:00</span>
                             </div>
                             <!-- timeline-content -->
                         </div>
@@ -211,7 +212,7 @@
                                 </div>
                                 <h2 class="wow flipInX" data-wow-delay="0.3s"> Saskia Blom</h2>
                                 <p class="wow flipInX" data-wow-delay="0.3s">Afluisting minicongres door de dagvoorzitter.</p>
-                                <span class="date wow flipInX" data-wow-delay="0.3s">17:30</span>
+                                <span class="date wow flipInX" data-wow-delay="0.3s">17:25</span>
                             </div>
                             <!-- timeline-content -->
                         </div>
@@ -225,6 +226,7 @@
 
                             <div class="timeline-content">
                                 <h2 class="wow flipInX" data-wow-delay="0.3s"> Receptie</h2>
+                                <p class="wow flipInX" data-wow-delay="0.3s">Muzikale omlijsting door Steven Schutte, met medewerking van Laura Lijbers</p>
                                 <span class="date wow flipInX" data-wow-delay="0.3s">17:30</span>
                             </div>
                             <!-- timeline-content -->
@@ -239,8 +241,8 @@
 
                             <div class="timeline-content">
                                 <h2 class="wow flipInX" data-wow-delay="0.3s"> Rondleiding door de brouwerij</h2>
-                                <p class="wow flipInX end" data-wow-delay="0.3s">(optioneel)</p>
-                                <span class="date wow flipInX" data-wow-delay="0.3s">18:00</span>
+                                <p class="wow flipInX end" data-wow-delay="0.3s">(optioneel - tijdens de receptie)</p>
+                                <span class="date wow flipInX" data-wow-delay="0.3s">17:30</span>
                             </div>
                             <!-- timeline-content -->
                         </div>
@@ -253,7 +255,7 @@
                             <!-- timeline-bullet -->
 
                             <div class="timeline-content">
-                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Einde</h2>
+                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Afsluiting</h2>
                                 <span class="date wow flipInX" data-wow-delay="0.3s">20:00</span>
                             </div>
                             <!-- timeline-content -->
@@ -282,7 +284,8 @@
         <div class="container">
             <div class="section-title wow fadeInUp">
                 <h4>OVER MARIA</h4>
-                <p>Hier moet nog wat tekst komen te staan.</p>
+                <p>Maria (1957) begon haar carrière in de JGZ in 1988 als consultatiebureau-arts voor 2 middagen per week. In 1991 werd ze kostwinner en kon ze haar werkweek maximaal uitbreiden. Alleen consultatiebureaus waren niet genoeg: ze zette zich in voor de ondernemingsraad, voor diverse beroepsorganisaties en deelde haar passie en kennis met anderen als opleider en docent. 
+                    <br><br>In 2007 begon ze als pionier de functie van jeugdarts voor alle leeftijdscategorieën te combineren. Vanaf 2011 is ze als stafarts niet alleen inhoudelijk maar ook beleidsmatig met haar beroep bezig, met name op het juridische vlak en in de automatisering. Haar zorgen over het vak zijn consolidering en institutionalisering, haar wensen voor de toekomst van de jeugdgezondheidszorg verdere professionalisering en vernieuwing.</p>
             </div>
 
             <div class="sponsor-slider wow bounceIn">
@@ -306,8 +309,8 @@
     <div class="highlight highlight-venue" id="venue">
         <div class="container highlight-venue-container">
 
-            <div class="row">
-                <div class="col-sm-6">
+            <div class="row d-flex-location">
+                <div class="col-sm-6 d-flex-location">
                     <div class="contact-box">
                         <img src="images/location-icon.png" alt="location icon" class="wow zoomIn">
                         <h5>LOCATIE</h5>
@@ -320,15 +323,14 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-sm-6">
+                <div class="col-sm-6 d-flex-location">
                     <div class="contact-box">
-                        <img src="images/location-icon.png" alt="email icon" class="wow zoomIn" data-wow-delay="0.3s">
                         <h5>BEREIKBAARHEID</h5>
                         <p>Parkeren bij de locatie is gratis.
                             <br> Er zijn voldoende parkeerplekken beschikbaar achter de brouwerij. 
-                            <br>
-                            <br> U kunt ingang Zuid gebruiken.
-                            <br> 
+                            <br><br> De brouwerij is gelegen op het Zwitsal terrein. 
+                            De ingang van dit terrein direct bij de brouwerij is afgesloten.
+                            U kunt daarom gebruik maken van <strong>ingang Zuid</strong>.
                         </p>
                     </div>
                 </div>
@@ -348,67 +350,17 @@
         </div>
 
         <div class="contact-form bottom-space-xl wow fadeInUp">
-
-            <form action="php/contact.php" id="phpcontactform" method="POST">
-                <div class="row">
-
-                    <div class="col-md-6 col-md-offset-3">
-
-                        <div class="row">
-
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <label>Voornaam *</label>
-                                    <input type="text" class="form-control" name="first_name" placeholder="Voornaam" required>
-
-                                </div>
-
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <label>Achternaam *</label>
-                                    <input type="text" class="form-control" name="last_name" placeholder="Achternaam" required>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="form-group">
-                            <label>E-mailadres *</label>
-                            <input type="email" class="form-control" name="email" placeholder="E-mailadres" required>
-                        </div>
-
-                        <div class="form-group">
-                            <label>Ik meld mij aan voor *</label>
-                            
-                            <div class="row">
-                                <div class="col-sm-6">
-                                    <label class="radio-inline" for="all">
-                                        <input type="radio" name="type" id="all" value="ALLES" checked /> Het hele programma
-                                    </label>
-                                </div>
-                                <div class="col-sm-6">
-                                    <label class="radio-inline" for="reception">
-                                        <input type="radio" name="type" id="reception" value="RECEPTION" /> Alleen de receptie
-                                    </label>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="form-group">
-                            <label>Jouw boodschap aan Maria (optioneel)</label>
-                            <textarea class="form-control" name="message" rows="6"> </textarea>
-                        </div>
-
-                        <div class="text-center top-space">
-                            <button type="submit" class="btn btn-success btn-block btn-lg" id="js-contact-btn">Verstuur</button>
-                            <div id="js-contact-result" data-success-msg="Form submitted successfully." data-error-msg="Oops. Something went wrong."></div>
-                        </div>
-
-                    </div>
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3">
+                    <SignupForm />
                 </div>
-            </form>
+            </div>
         </div>
 
+        <div class="section-title">
+            <p>Voor vragen of meer informatie kunt u zich wenden tot Saskia Blom, <a href="mailto:s.blom@cjgapeldoorn.nl">s.blom@cjgapeldoorn.nl</a>,  
+            <a href="tel:+31555805359">055 580 53 59</a></p>
+        </div>
     </div>
     <!-- // end .container -->
 
@@ -423,8 +375,14 @@
 </template>
 
 <script>
+import SignupForm from './components/SignupForm';
+
 export default {
-  name: 'app',
+  name: 'App',
+
+  components: {
+      SignupForm
+  }
 }
 </script>
 

@@ -127,6 +127,14 @@ p,
     line-height: 1.7;
 }
 
+@media (min-width: 768px) {
+    .d-flex-location {
+        display: flex;
+        margin: 0;
+        width: 100%;
+    }
+}
+
 /* 
    Buttons
    ------- */
@@ -620,7 +628,7 @@ p,
     text-align: center;
     text-shadow: 0 1px 0 rgba(0, 0, 0, .1);
     margin-top: 66px;
-    background-image: url('../images/bg2.jpg');
+    background-image: url('../images/bg3.jpg');
     background-position: center center;
     background-size: cover;
 }
@@ -656,6 +664,14 @@ p,
     margin-bottom: 0;
     margin-top: 40px;
     line-height: 1;
+}
+
+.headline-text {
+    font-size: 18px;
+}
+
+.headline-2 {
+    margin: 10px 0 0;
 }
 
 .headline-support {
@@ -1042,6 +1058,10 @@ p,
     border: 0;
     overflow: auto;
 }
+
+.is-invalid ~ p, .invalid-feedback {
+    color: red;
+}
 /* ================================================
    Sections
    ================================================ */
@@ -1092,7 +1112,7 @@ p,
 }
 
 .section-title p {
-    max-width: 450px;
+    max-width: 850px;
     margin: 0 auto;
 }
 /* ================================================
@@ -1292,7 +1312,6 @@ p,
 .timeline-content p {
     margin: 5px 0;
     line-height: 1.6;
-    color: #B3B3B3;
     width: 100%;
 }
 
@@ -1844,12 +1863,14 @@ p,
     border-radius: 3px;
     padding: 10px 30px;
     margin: 20px 0;
+    width: 100%;
 }
 
 @media (min-width: 992px) {
     .contact-box img {
         float: right;
         padding: 40px 20px;
+        max-width: 150px;
     }
 }
 
