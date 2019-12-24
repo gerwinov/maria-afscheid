@@ -140,6 +140,7 @@
 
                             <div class="timeline-content">
                                 <h2 class="wow flipInX" data-wow-delay="0.3s"> Ontvangst met koffie en thee</h2>
+                                <p class="wow flipInX" data-wow-delay="0.3s">In proeflokaal De Vlijt</p>
                                 <span class="date wow flipInX" data-wow-delay="0.3s">16:00</span>
                             </div>
                             <!-- timeline-content -->
@@ -153,8 +154,10 @@
                             <!-- timeline-bullet -->
 
                             <div class="timeline-content">
+                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Start minicongres</h2>
+                                <p class="wow flipInX" data-wow-delay="0.3s">In zaal STOOM</p>
                                 <div class="speaker-info wow fadeIn" data-wow-delay="0s">
-                                    <img src="images/willemijn.jpg" alt="avatar" class="img-responsive">
+                                    <img src="images/saskia.jpg" alt="avatar" class="img-responsive">
                                 </div>
                                 <h2 class="wow flipInX" data-wow-delay="0.3s"> Saskia Blom</h2>
                                 <p class="wow flipInX" data-wow-delay="0.3s">Opening en inleiding door dagvoorzitter Saskia Blom, directeur Centrum voor Jeugd en Gezin Apeldoorn.</p>
@@ -172,10 +175,14 @@
 
                             <div class="timeline-content end">
                                 <div class="speaker-info wow fadeIn justify-content-end" data-wow-delay="0s">
-                                    <img src="images/willemijn.jpg" alt="avatar" class="img-responsive">
+                                    <img src="images/goos.jpg" alt="avatar" class="img-responsive">
                                 </div>
                                 <h2 class="wow flipInX" data-wow-delay="0.3s"> Goos Cardol</h2>
-                                <p class="wow flipInX" data-wow-delay="0.3s">Hier hebben we nog tekst voor nodig.</p>
+                                <p class="wow flipInX" data-wow-delay="0.3s">
+                                    <strong>De kunst van het vertalen van het Kinderrechtenverdrag naar het werk van jeugdarts.</strong><br><br>
+                                    Goos Cardol leidt het onderzoeksprogramma 'Opvoeden in het publieke domein' op Zuyd Hogeschool en was de afgelopen jaren bijzonder lector van het lectoraat Jeugdzorg. Hij volgde Nederlands Recht aan de Open Universiteit en promoveerde aan de Universiteit Tilburg. Naast zijn functie bij Zuyd is Goos Cardol werkzaam als stafjurist bij de Raad voor de Kinderbescherming. 
+                                    <br><i>"Kinderen positie geven. Daar gaat het naar mijn mening om in het internationale kinderrechtenverdrag. Ik prijs me gelukkig dat ik daar mijn steentje aan kan bijdragen."</i>
+                                </p>
                                 <span class="date wow flipInX" data-wow-delay="0.3s">16:35</span>
                             </div>
                             <!-- timeline-content -->
@@ -193,7 +200,11 @@
                                     <img src="images/willemijn.jpg" alt="avatar" class="img-responsive">
                                 </div>
                                 <h2 class="wow flipInX" data-wow-delay="0.3s"> Willemijn Dupuis</h2>
-                                <p class="wow flipInX" data-wow-delay="0.3s">Kinderparticipatie begint bij het eigen verhaal van ieder kind. <br><br>Willemijn Dupuis heeft vanaf 1987 met Kinderrechtenambassadeurs gewerkt. Zij is begonnen als vrijwilliger voor UNICEF en heeft met Kinderrechtenambassadeurs van alle Westlandse basisscholen kinderparticipatie op de kaart gezet. Met de kinderen werd gesproken over hun rechten en plichten en die van alle kinderen in de wereld.</p>
+                                <p class="wow flipInX" data-wow-delay="0.3s">
+                                    <strong>Kinderparticipatie begint bij het eigen verhaal van ieder kind.</strong> <br><br>
+                                    Willemijn Dupuis is al sinds 1987 bezig met kinderparticipatie in Nederland. Eerst als vrijwilliger bij Unicef, vervolgens als onbezoldigd directeur van de stichting Jeugd NU en tegenwoordig als onbezoldigd directeur van KinderrechtenNU (voornamelijk gericht op kinderen in de leeftijd van negen tot twaalf jaar, ouders en professionals). Met KinderrechtenNU brengt Dupuis kinderrechten onder de aandacht bij gemeenten, professionals, scholen, opvoeders en kinderen.
+                                    <br><i>"Kinderen doen n&uacute; mee. Dat betekent nú investeren in l&aacute;ter."</i>
+                                </p>
                                 <span class="date wow flipInX" data-wow-delay="0.3s">17:00</span>
                             </div>
                             <!-- timeline-content -->
@@ -208,7 +219,7 @@
 
                             <div class="timeline-content end">
                                 <div class="speaker-info wow fadeIn justify-content-end" data-wow-delay="0s">
-                                    <img src="images/willemijn.jpg" alt="avatar" class="img-responsive">
+                                    <img src="images/saskia.jpg" alt="avatar" class="img-responsive">
                                 </div>
                                 <h2 class="wow flipInX" data-wow-delay="0.3s"> Saskia Blom</h2>
                                 <p class="wow flipInX" data-wow-delay="0.3s">Afluisting minicongres door de dagvoorzitter.</p>
@@ -330,7 +341,7 @@
                             <br> Er zijn voldoende parkeerplekken beschikbaar achter de brouwerij. 
                             <br><br> De brouwerij is gelegen op het Zwitsal terrein. 
                             De ingang van dit terrein direct bij de brouwerij is afgesloten.
-                            U kunt daarom gebruik maken van <strong>ingang Zuid</strong>.
+                            U kunt daarom gebruik maken van <strong>ingang Zuid</strong> (zie onderstaande kaart).
                         </p>
                     </div>
                 </div>
