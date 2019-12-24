@@ -48,8 +48,8 @@
       </div>
 
       <div class="form-group" >
-        <button class="btn btn-primary" @click="submit">
-          <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true" v-show="loading"></span>
+        <button class="btn btn-primary" @click="submit" :disabled="loading">
+          <span class="spinner-border" role="status" aria-hidden="true" v-show="loading"></span>
           Aanmelden
         </button>
       </div>
