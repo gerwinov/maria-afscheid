@@ -66,7 +66,7 @@
     <section class="highlight">
 
         <div class="container">
-            <p class="lead text-center">De jeugdgezondheidszorg in Nederland behoort tot de beste ter wereld. Door alle georganiseer en goede bedoelingen worden organisaties en processen op den duur leidend. Verliezen we dan het belangrijkste niet vaak uit het oog? Het kind zelf moet in al ons denken en handelen centraal blijven staan. Een kleine bijeenkomst om uw gedachten weer op het goede spoor te zetten...</p>
+            <p class="lead text-center">De jeugdgezondheidszorg in Nederland behoort tot de beste ter wereld. Door alle georganiseer en goede bedoelingen worden organisaties en processen op den duur leidend. Verliezen we dan het belangrijkste niet vaak uit het oog? Het kind zelf heeft het recht om in al ons denken en handelen centraal te staan. Een kleine bijeenkomst om uw gedachten weer op het goede spoor te zetten...</p>
 
             <div class="countdown_wrap">
                 <!-- Countdown JS for the Event Date Starts here.
@@ -357,7 +357,7 @@
         <div class="section-title">
             <h4>AANMELDEN</h4>
             <p>Vul onderstaand formulier in om u aan te melden voor het afscheid.
-            Het is niet de bedoeling dat u iets meeneemt voor Maria. Uw aanwezigheid is haar alles waard.</p>
+            Het is <strong>niet</strong> de bedoeling dat u iets meeneemt voor Maria, maar het is de bedoeling dat u na afloop wat meeneemt naar huis: het inzicht in het wettelijke recht van een kind om kind te zijn.</p>
         </div>
 
         <div class="contact-form bottom-space-xl wow fadeInUp">
