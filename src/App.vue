@@ -179,7 +179,7 @@
                                 </div>
                                 <h2 class="wow flipInX" data-wow-delay="0.3s"> Goos Cardol</h2>
                                 <p class="wow flipInX" data-wow-delay="0.3s">
-                                    <strong>De kunst van het vertalen van het Kinderrechtenverdrag naar het werk van jeugdarts.</strong><br><br>
+                                    <strong>De kunst van het vertalen van het Kinderrechtenverdrag naar de jeugdgezondheidszorg.</strong><br><br>
                                     Goos Cardol leidt het onderzoeksprogramma 'Opvoeden in het publieke domein' op Zuyd Hogeschool en was de afgelopen jaren bijzonder lector van het lectoraat Jeugdzorg. Hij volgde Nederlands Recht aan de Open Universiteit en promoveerde aan de Universiteit Tilburg. Naast zijn functie bij Zuyd is Goos Cardol werkzaam als stafjurist bij de Raad voor de Kinderbescherming. 
                                     <br><i>"Kinderen positie geven. Daar gaat het naar mijn mening om in het internationale kinderrechtenverdrag. Ik prijs me gelukkig dat ik daar mijn steentje aan kan bijdragen."</i>
                                 </p>
