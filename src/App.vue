@@ -341,7 +341,7 @@
                             <br> Er zijn voldoende parkeerplekken beschikbaar achter de brouwerij. 
                             <br><br> De brouwerij is gelegen op het Zwitsal terrein. 
                             De ingang van dit terrein direct bij de brouwerij is afgesloten.
-                            U kunt daarom gebruik maken van <strong>ingang Zuid</strong> (zie onderstaande kaart).
+                            U moet daarom gebruik maken van <strong>ingang Zuid</strong> (zie onderstaande kaart).
                         </p>
                     </div>
                 </div>
