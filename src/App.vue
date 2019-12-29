@@ -66,7 +66,7 @@
     <section class="highlight">
 
         <div class="container">
-            <p class="lead text-center">De jeugdgezondheidszorg in Nederland behoort tot de beste ter wereld. Door alle georganiseer en goede bedoelingen worden organisaties en processen op den duur leidend. Verliezen we dan het belangrijkste niet vaak uit het oog? Het kind zelf heeft het recht om in al ons denken en handelen centraal te staan. Een kleine bijeenkomst om uw gedachten weer op het goede spoor te zetten...</p>
+            <p class="lead text-center">De jeugdgezondheidszorg in Nederland behoort tot &eacute;&eacute;n van de beste ter wereld. Door alle georganiseer en goede bedoelingen worden organisaties en processen op den duur leidend. Verliezen we dan het belangrijkste niet vaak uit het oog? Het kind zelf heeft het recht om in al ons denken en handelen centraal te staan. Een kleine bijeenkomst om uw gedachten weer op het goede spoor te zetten...</p>
 
             <div class="countdown_wrap">
                 <!-- Countdown JS for the Event Date Starts here.
@@ -159,8 +159,8 @@
                                 <div class="speaker-info wow fadeIn" data-wow-delay="0s">
                                     <img src="images/saskia.jpg" alt="avatar" class="img-responsive">
                                 </div>
-                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Saskia Blom</h2>
-                                <p class="wow flipInX" data-wow-delay="0.3s">Opening en inleiding door dagvoorzitter Saskia Blom, directeur Centrum voor Jeugd en Gezin Apeldoorn.</p>
+                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Saskia Blom-Schakel</h2>
+                                <p class="wow flipInX" data-wow-delay="0.3s">Opening en inleiding door dagvoorzitter Saskia Blom-Schakel, directeur-bestuurder Centrum voor Jeugd en Gezin Apeldoorn.</p>
                                 <span class="date wow flipInX" data-wow-delay="0.3s">16:30</span>
                             </div>
                             <!-- timeline-content -->
@@ -221,7 +221,7 @@
                                 <div class="speaker-info wow fadeIn justify-content-end" data-wow-delay="0s">
                                     <img src="images/saskia.jpg" alt="avatar" class="img-responsive">
                                 </div>
-                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Saskia Blom</h2>
+                                <h2 class="wow flipInX" data-wow-delay="0.3s"> Saskia Blom-Schakel</h2>
                                 <p class="wow flipInX" data-wow-delay="0.3s">Afluisting minicongres door de dagvoorzitter.</p>
                                 <span class="date wow flipInX" data-wow-delay="0.3s">17:25</span>
                             </div>
@@ -369,7 +369,7 @@
         </div>
 
         <div class="section-title">
-            <p>Voor vragen of meer informatie kunt u zich wenden tot Saskia Blom, <a href="mailto:s.blom@cjgapeldoorn.nl">s.blom@cjgapeldoorn.nl</a>,  
+            <p>Voor vragen of meer informatie kunt u zich wenden tot Saskia Blom-Schakel, <a href="mailto:s.blom@cjgapeldoorn.nl">s.blom@cjgapeldoorn.nl</a>,  
             <a href="tel:+31555805359">055 580 53 59</a></p>
         </div>
     </div>
