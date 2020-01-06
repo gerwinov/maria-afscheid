@@ -222,7 +222,7 @@
                                     <img src="images/saskia.jpg" alt="avatar" class="img-responsive">
                                 </div>
                                 <h2 class="wow flipInX" data-wow-delay="0.3s"> Saskia Blom-Schakel</h2>
-                                <p class="wow flipInX" data-wow-delay="0.3s">Afluisting minicongres door de dagvoorzitter.</p>
+                                <p class="wow flipInX" data-wow-delay="0.3s">Afsluiting minicongres door de dagvoorzitter.</p>
                                 <span class="date wow flipInX" data-wow-delay="0.3s">17:25</span>
                             </div>
                             <!-- timeline-content -->
