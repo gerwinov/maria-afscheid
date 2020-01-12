@@ -307,6 +307,7 @@
                 <div><img src="images/photos/5.png" class="img-responsive center-block" alt="sponsor"> </div>
                 <div><img src="images/photos/6.png" class="img-responsive center-block" alt="sponsor"> </div>
                 <div><img src="images/photos/0.png" class="img-responsive center-block" alt="sponsor"> </div>
+                <div><img src="images/photos/7.png" class="img-responsive center-block" alt="sponsor"> </div>
             </div>
         </div>
         <!-- end .container -->
@@ -376,6 +377,10 @@
     <!-- // end .container -->
 
     <footer>
+        <div>
+            <img src="images/cjg_logo.jpg" alt="sponsor">
+            <img src="images/herobaby_logo.png" alt="sponsor">
+        </div>
         <p> <small class="text-muted">Copyright © 2019. All rights reserved. Made in Amsterdam.</small></p>
 
     </footer>
