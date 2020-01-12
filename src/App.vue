@@ -306,8 +306,8 @@
                 <div><img src="images/photos/4.png" class="img-responsive center-block" alt="sponsor"> </div>
                 <div><img src="images/photos/5.png" class="img-responsive center-block" alt="sponsor"> </div>
                 <div><img src="images/photos/6.png" class="img-responsive center-block" alt="sponsor"> </div>
-                <div><img src="images/photos/0.png" class="img-responsive center-block" alt="sponsor"> </div>
                 <div><img src="images/photos/7.png" class="img-responsive center-block" alt="sponsor"> </div>
+                <div><img src="images/photos/0.png" class="img-responsive center-block" alt="sponsor"> </div>
             </div>
         </div>
         <!-- end .container -->
